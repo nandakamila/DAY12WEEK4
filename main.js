@@ -1,4 +1,4 @@
-const { Order } = require("./class");
+const { Order } = require('./class');
 
 const queue = new Order();
 
